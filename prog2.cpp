@@ -2,6 +2,8 @@
 #include<vector>
 #include <fstream>
 #include <float.h>
+#include <cmath>
+#include <algorithm>
 
 using namespace std;
 
